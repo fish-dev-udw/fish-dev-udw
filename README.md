@@ -5,9 +5,7 @@ I love making weird and fun games!
 
 ## 📈 GitHub Stats
 
-![FishDev GitHub stats](https://github-readme-stats.vercel.app/api?username=fish-dev-udw&theme=tokyonight&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fish-dev-udw&layout=compact&theme=tokyonight)
+![FishDev GitHub stats](https://github-readme-stats.vercel.app/api?username=fish-dev-udw&theme=tokyonight&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fish-dev-udw&layout=compact&theme=tokyonight)
 
 ## 🔧 Game Dev Tools & Skills
 
