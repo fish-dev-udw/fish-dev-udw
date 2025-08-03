@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I'm FishDev!
+> Indie GameDev
 
-<!--
-**fish-dev-udw/fish-dev-udw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love making weird and fun games!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Game Dev Tools & Skills
+
+---
+
+### 🥇 Advanced
+**GameMaker**
+![GameMaker](https://img.shields.io/badge/-GameMaker-%23000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+
+### 🥈 Intermediate
+**Love2D**
+![Lua](https://img.shields.io/badge/-Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### 🥉 Beginner
+**Godot**
+![GDScript](https://img.shields.io/badge/-GDScript-%23868DA8?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+**Raylib**
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+**Aseprite**  
+![Aseprite](https://img.shields.io/badge/-Aseprite-%23FF7F7F?style=for-the-badge&logo=aseprite&logoColor=white)
+
+## 📈 GitHub Stats
+
+![FishDev GitHub stats](https://github-readme-stats.vercel.app/api?username=fish-dev-udw&theme=tokyonight&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fish-dev-udw&layout=compact&theme=tokyonight)
